@@ -1,4 +1,5 @@
 # Lab2Web
+# Cara menggunakan CSS
 ## Kerangka Html
 ![alt text](image.png)
 
