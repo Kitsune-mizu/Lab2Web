@@ -2,6 +2,8 @@ nav {
 background: #20A759;
 color:#fff;
 padding: 10px;
+border-radius: 10px;
+border: 5px solid #000656;
 }
 nav a {
 color: #fff;
@@ -15,9 +17,10 @@ background: #0B6B3A;
 /* ID Selector */
 #intro {
 background: #418fb1;
-border: 1px solid #099249;
+border: 1px solid #000656;
 min-height: 100px;
 padding: 10px;
+border-radius: 10px;
 }
 #intro h1 {
 text-align: left;
@@ -32,6 +35,7 @@ color: #fff;
 display: inline-block;
 margin: 10px;
 text-decoration: none;
+border-radius: 10px;
 }
 .btn-primary {
 background: #E42A42;
